@@ -248,7 +248,8 @@ public class SnakeModel extends GameModel {
 			}
 			
 			addFruit();
-			score+=2;
+
+			score+=3;
 		}
 		
 		else{
